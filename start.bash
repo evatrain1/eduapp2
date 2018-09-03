@@ -4,8 +4,8 @@
 
 # This script should start the applicagtion
 
-echo "call start.js"
+echo "starting node web server"
 
-node start.js
+~/eduapp2/node_modules/.bin/http-server
 
 exit

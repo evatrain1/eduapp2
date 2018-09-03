@@ -1,0 +1,22 @@
+{
+  "name": "eduapp2",
+  "version": "1.0.0",
+  "description": "README.md",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evatrain1/eduapp2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evatrain1/eduapp2/issues"
+  },
+  "homepage": "https://github.com/evatrain1/eduapp2#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
