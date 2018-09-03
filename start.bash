@@ -4,6 +4,8 @@
 
 # This script should start the applicagtion
 
-echo "tba"
+echo "call start.js"
+
+node start.js
 
 exit
